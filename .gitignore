@@ -4,3 +4,15 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .DS_Store
+# Downloaded raw data; fetch separately when permitted
+data/raw/*.xls
+
+# Temporary and backup files
+*_backup.py
+*_old.py
+layout.txt
+titles.txt
+tatus --short
+
+# Local Python and Streamlit files
+.streamlit/secrets.toml

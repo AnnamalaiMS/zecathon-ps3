@@ -1,4 +1,4 @@
-data_cutoff: "YYYY-MM-DD"
+data_cutoff: "2026-10-26"
 categories: [liquid, overnight]
 horizon: 3
 n_origins: 24
